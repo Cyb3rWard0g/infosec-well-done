@@ -1,0 +1,48 @@
+<!doctype html>
+
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		{% seo %}
+		{% feed_meta %}
+
+		<link href="//fonts.googleapis.com/css?family=Antic+Slab|Fira+Sans" rel="stylesheet">
+		<link rel="stylesheet" media="screen" href="{{ site.baseurl }}/css/screen.css">
+		{% if page.print_stylesheet %}
+			<link rel="stylesheet" media="print" href="{{ site.baseurl }}/css/print.css">
+		{% endif %}
+		<link rel="icon" type="image/png" href="{{ site.baseurl }}/images/favicon.png">
+
+		{% if jekyll.environment == 'production' and site.google_analytics_key != '' %}
+			<script>
+				window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+				ga('create', '{{ site.google_analytics_key }}', 'auto');
+				ga('send', 'pageview');
+			</script>
+			<script async src='https://www.google-analytics.com/analytics.js'></script>
+		{% endif %}
+	</head>
+	<body>
+		{% include navigation.html %}
+		<header>
+			<a href="{{site.baseurl }}/">
+				<img src="{{ site.baseurl }}{{ site.data.company_details.logo_image }}" width="180" alt="logo">
+			</a>
+			<div>
+				<a class="editor-link btn" href="cloudcannon:collections/_data/company_details.yml" class="btn"><strong>&#9998;</strong> Edit Logo</a></div>
+		</header>
+			
+		<div class="container main-content">
+			<section class="content">{{ content }}</section>
+			{% include sidebar.html %}
+		</div>
+		<footer>
+			<div class="container">
+				<hr>
+				&copy; {{ site.title }} {{ site.time | date: "%Y" }}. All rights reserved.
+			</div>
+		</footer>
+	</body>
+</html>
