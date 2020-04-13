@@ -3,7 +3,7 @@
 
 title: Infosec Well-Done
 url: "https://cyb3rward0g.github.io/"
-baseurl: "/infosec-well-done"
+baseurl:
 google_analytics_key:
 newsletter_action:
 disqus_shortname:
