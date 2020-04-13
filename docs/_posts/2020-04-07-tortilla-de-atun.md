@@ -1,10 +1,10 @@
 ---
 date: 2020-04-07
-title: Tortilla de Tuna
+title: Tortilla de Atún
 categories:
   - Tuna
   - Peruvian
-featured_image: https://raw.githubusercontent.com/Cyb3rWard0g/infosec-well-done/master/docs/images/posts/tortilla-de-tuna.jpg
+featured_image: https://raw.githubusercontent.com/Cyb3rWard0g/infosec-well-done/master/docs/images/posts/tortilla-de-atun.jpg
 recipe:
   servings: 2 people
   prep: 10-15 minutes
