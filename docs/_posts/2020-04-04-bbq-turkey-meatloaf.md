@@ -2,7 +2,7 @@
 date: 2020-04-05
 title: BBQ Turkey Meatloaf
 categories:
-  - Meat
+  - Turkey
 featured_image: https://raw.githubusercontent.com/Cyb3rWard0g/infosec-well-done/master/docs/images/posts/bbq-turkey-meatloaf.jpg
 recipe:
   servings: 4 people

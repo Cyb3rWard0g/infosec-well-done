@@ -2,7 +2,7 @@
 date: 2020-04-08
 title: Almond Butter Acai Bowl
 categories:
-  - dessert
+  - Dessert
 featured_image: https://raw.githubusercontent.com/Cyb3rWard0g/infosec-well-done/master/docs/images/posts/almond-butter-acai-bowl.jpg
 recipe:
   servings: 2 people
