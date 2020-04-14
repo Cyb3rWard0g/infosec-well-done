@@ -2,6 +2,7 @@
 date: 2020-04-03
 title: Beef Stroganoff
 categories:
+  - Meal
   - Beef
 featured_image: https://raw.githubusercontent.com/Cyb3rWard0g/infosec-well-done/master/docs/images/posts/beef-stroganoff.jpg
 recipe:
@@ -32,5 +33,3 @@ recipe:
 ---
 
 **Contributor**: [@Cyb3rWard0g](https://twitter.com/Cyb3rWard0g) 🧑🏽‍🍳
-
-Healthy and delicious!

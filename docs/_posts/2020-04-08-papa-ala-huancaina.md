@@ -31,5 +31,3 @@ recipe:
 ---
 
 **Contributor**: [@Cyb3rWard0g](https://twitter.com/Cyb3rWard0g) 🧑🏽‍🍳
-
-So good!

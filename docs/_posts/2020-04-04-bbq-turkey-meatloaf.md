@@ -2,6 +2,7 @@
 date: 2020-04-05
 title: BBQ Turkey Meatloaf
 categories:
+  - Meal
   - Turkey
 featured_image: https://raw.githubusercontent.com/Cyb3rWard0g/infosec-well-done/master/docs/images/posts/bbq-turkey-meatloaf.jpg
 recipe:
@@ -30,5 +31,3 @@ recipe:
 ---
 
 **Contributor**: [@Cyb3rWard0g](https://twitter.com/Cyb3rWard0g) 🧑🏽‍🍳
-
-Healthy and delicious!

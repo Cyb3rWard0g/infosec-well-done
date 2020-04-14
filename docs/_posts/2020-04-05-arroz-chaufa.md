@@ -2,7 +2,7 @@
 date: 2020-04-06
 title: Arroz Chaufa
 categories:
-  - Rice
+  - Meal
   - Peruvian
 featured_image: https://raw.githubusercontent.com/Cyb3rWard0g/infosec-well-done/master/docs/images/posts/arroz-chaufa.jpg
 recipe:
@@ -36,5 +36,3 @@ recipe:
 ---
 
 **Contributor**: [@Cyb3rWard0g](https://twitter.com/Cyb3rWard0g) 🧑🏽‍🍳
-
-Healthy and delicious!

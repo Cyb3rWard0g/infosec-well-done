@@ -2,7 +2,7 @@
 date: 2020-04-07
 title: Tortilla de Atún
 categories:
-  - Tuna
+  - Meal
   - Peruvian
 featured_image: https://raw.githubusercontent.com/Cyb3rWard0g/infosec-well-done/master/docs/images/posts/tortilla-de-atun.jpg
 recipe:
@@ -27,5 +27,3 @@ recipe:
 ---
 
 **Contributor**: [@Cyb3rWard0g](https://twitter.com/Cyb3rWard0g) 🧑🏽‍🍳
-
-So good!

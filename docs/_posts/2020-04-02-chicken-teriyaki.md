@@ -2,6 +2,7 @@
 date: 2020-04-02
 title: Chicken Teriyaki
 categories:
+  - Meal
   - Chicken
 featured_image: https://raw.githubusercontent.com/Cyb3rWard0g/infosec-well-done/master/docs/images/posts/chicken-teriyaki.jpg
 recipe:
@@ -31,7 +32,5 @@ recipe:
 ---
 
 **Contributor**: [@Cyb3rWard0g](https://twitter.com/Cyb3rWard0g) 🧑🏽‍🍳
-
-Healthy and delicious!
 
 References: https://www.bbcgoodfood.com/recipes/easy-teriyaki-chicken
