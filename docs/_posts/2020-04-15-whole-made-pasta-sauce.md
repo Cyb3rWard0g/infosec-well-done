@@ -2,9 +2,8 @@
 date: 2020-04-15
 title: Whole Made Pasta Sauce
 categories:
-  - Noodles
   - Pasta
-  - Dinner
+  - Meal
 featured_image: https://raw.githubusercontent.com/Cyb3rWard0g/infosec-well-done/master/docs/images/posts/whole-made-pasta-sauce.jpg
 recipe:
   servings: 6-8 people
