@@ -2,8 +2,8 @@
 # Site
 
 title: Infosec Well-Done
-url: "https://cyb3rward0g.github.io/infosec-well-done"
-baseurl:
+url: https://infosecwelldone.com
+baseurl: /
 google_analytics_key:
 newsletter_action:
 disqus_shortname:
