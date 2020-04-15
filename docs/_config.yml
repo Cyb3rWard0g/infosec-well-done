@@ -10,7 +10,7 @@ disqus_shortname:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Infosec well-done is a project to share resources with the infosec community that do not take much time to make.
+description: Infosec Well-Done is a project to share quick recipes with the infosec community.
 author:
   name: Roberto Rodriguez
   email:
