@@ -1,10 +1,10 @@
 ---
 date: 2020-04-15
-title: Whole Made Pasta Sauce
+title: Homemade Pasta Sauce
 categories:
   - Pasta
   - Meal
-featured_image: https://raw.githubusercontent.com/Cyb3rWard0g/infosec-well-done/master/docs/images/posts/whole-made-pasta-sauce.jpg
+featured_image: https://raw.githubusercontent.com/Cyb3rWard0g/infosec-well-done/master/docs/images/posts/homemade-pasta-sauce.jpg
 recipe:
   servings: 6-8 people
   prep: 20 minutes
