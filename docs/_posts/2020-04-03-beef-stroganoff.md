@@ -1,6 +1,6 @@
 ---
 date: 2020-04-03
-title: Beef Stroganoff
+title: 0xBEEF Stroganoff
 categories:
   - Meal
   - Beef

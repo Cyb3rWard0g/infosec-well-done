@@ -1,6 +1,6 @@
 ---
 date: 2020-04-15
-title: Louisiana Jambalaya 🍚🦐🍖🍷
+title: Spearshrimping Jamabalaya 🍚🦐🍖🍷
 categories:
   - Meal
   - Comfort

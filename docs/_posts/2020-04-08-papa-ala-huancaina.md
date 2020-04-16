@@ -1,6 +1,6 @@
 ---
 date: 2020-04-08
-title: Papa a la Huancaina
+title: Golden Ticket Papa a la Huancaina
 categories:
   - Appetizer
   - Peruvian
