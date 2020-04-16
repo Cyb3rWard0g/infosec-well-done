@@ -26,4 +26,4 @@ recipe:
     7. Serve with white rice or boil potatoes.
 ---
 
-**Contributor**: [@Cyb3rWard0g](https://twitter.com/Cyb3rWard0g) 🧑🏽‍🍳
+**Contributor**: [@Cyb3rWard0g](https://twitter.com/Cyb3rWard0g) 🧑🏽‍🍳🍻

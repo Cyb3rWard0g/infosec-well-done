@@ -32,4 +32,4 @@ recipe:
     6. Season to taste with salt and pepper; stir in dill and parsley and spoon over noodles. 
 ---
 
-**Contributor**: [@Cyb3rWard0g](https://twitter.com/Cyb3rWard0g) 🧑🏽‍🍳
+**Contributor**: [@Cyb3rWard0g](https://twitter.com/Cyb3rWard0g) 🧑🏽‍🍳🍻

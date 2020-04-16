@@ -30,4 +30,4 @@ recipe:
     6. Cut into 4 pieces and serve with a salada or potatoes or bread.
 ---
 
-**Contributor**: [@Cyb3rWard0g](https://twitter.com/Cyb3rWard0g) 🧑🏽‍🍳
+**Contributor**: [@Cyb3rWard0g](https://twitter.com/Cyb3rWard0g) 🧑🏽‍🍳🍻

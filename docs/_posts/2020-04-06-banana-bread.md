@@ -29,4 +29,4 @@ recipe:
     8. Bake at 350º / 180º for 55 minutes if it is a loaf pan or 30 mins if it is a glass container.
 ---
 
-**Contributor**: [@Cyb3rWard0g](https://twitter.com/Cyb3rWard0g) 🧑🏽‍🍳
+**Contributor**: [@Cyb3rWard0g](https://twitter.com/Cyb3rWard0g) 🧑🏽‍🍳🍻

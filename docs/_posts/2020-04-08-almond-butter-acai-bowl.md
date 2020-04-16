@@ -29,4 +29,4 @@ recipe:
     5. (optional) Wife likes to add chia seeds, hemp seeds 🤮, shreeded coconout and honey to her bowl. I like to only add froot loops to mine 🤣.
 ---
 
-**Contributor**: [@Cyb3rWard0g](https://twitter.com/Cyb3rWard0g) 🧑🏽‍🍳
+**Contributor**: [@Cyb3rWard0g](https://twitter.com/Cyb3rWard0g) 🧑🏽‍🍳🍻

@@ -30,4 +30,4 @@ recipe:
     8. Arrange 1 lettuce leaf onto each plate and top it with an egg half and two black olive halves (optional).
 ---
 
-**Contributor**: [@Cyb3rWard0g](https://twitter.com/Cyb3rWard0g) 🧑🏽‍🍳
+**Contributor**: [@Cyb3rWard0g](https://twitter.com/Cyb3rWard0g) 🧑🏽‍🍳🍻
