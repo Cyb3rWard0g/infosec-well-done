@@ -1,6 +1,6 @@
 ---
 date: 2020-04-15
-title: Spearshrimping Jamabalaya 🍚🦐🍖🍷
+title: Spearshrimping Jambalaya 🍚🦐🍖🍷
 categories:
   - Meal
   - Comfort
