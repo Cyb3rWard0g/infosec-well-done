@@ -2,8 +2,8 @@
 date: 2020-04-17
 title: DaftHack Go-To Smoothie
 categories:
-    - Meal
-    - Soup
+    - Smoothie
+    - Snack
 featured_image: https://raw.githubusercontent.com/Cyb3rWard0g/infosec-well-done/master/docs/images/posts/dafthack-smoothie.jpg
 recipe:
     servings: 1 person
