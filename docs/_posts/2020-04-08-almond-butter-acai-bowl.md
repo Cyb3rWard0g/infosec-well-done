@@ -10,7 +10,7 @@ recipe:
   cook: 2 minutes
   ingredients_markdown: |-
     * 2 acai pouches (100 grams each)
-    * 1 cup of milk
+    * 3/4 cup of milk
     * 10 strawberries
     * 10 blue berries
     * 2 teaspoon almond butter
