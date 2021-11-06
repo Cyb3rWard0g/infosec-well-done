@@ -16,16 +16,16 @@ recipe:
     * 3oz water (yes)
     * garlic powder, just a pinch
     * onion powder, just a pinch
-    * 1 3/4 large white onion
+    * 1 1/2 large white onion
     * 3 32oz tomato sauce (buy one with the least amount if added ingredients. Most of them have garlic and onion added, do not use those)
     this is very important
     * olive oil
-    * a large open pan. Anything that is not a "deep" pan
+    * a large open pan. If you do not have an open find, just find anything that is not a "deep" pan.
     this is very important
     * parsley, pinch
     * oregano, a pinch
-    * 2 clove garlic
-    * 1 tomato
+    * 6 cloves of garlic (1/2 a bulb)
+    * 1 vine tomato
     * 8oz tomato paste
     * 8oz diced tomatos
     * Best served with angel hair pasta noodles
@@ -44,8 +44,8 @@ recipe:
     12. Pour the water into the pan
     13. Stir for 5 minutes while it is boiling (do not let boil over)
     14. Bring the stove down to low
-    15. Stir, for 20 seconds, every 5 minutes for the first 30. Do not worry if it does not taste right for the first 2 hours, the longer it cooks the more the ingredients mix 
-    16. Stir, for 20 seconds, every 10-15 minutes for the next 3 hours
+    15. Stir, for 15 seconds, every 5 minutes for the first 30. Do not worry if it does not taste right for the first 2 hours, the longer it cooks the more the ingredients mix 
+    16. Stir, for 15 seconds, every 10-15 minutes for the next 3 hours
 ---
 
 **Contributor**: [@neu5ron](https://twitter.com/neu5ron) 🧑🏽‍🍳
